@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#inputArea {
+    /* Add styles for the input area here */
+}
+
+#simulation {
+    /* Add styles for the simulation area here */
+}
+
+.simulation-section {
+    /* Add styles for each section of the simulation (order line, kitchen, etc.) */
+}
+
+/* Add any additional styles for buttons, text boxes, etc. */
